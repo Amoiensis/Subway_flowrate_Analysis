@@ -13,7 +13,7 @@ To analyse the pedestrian flow in the Subway Network.
 ***********************************************************************
 [Github](https://github.com/Amoiensis/Subway_flowrate_Analysis): https://github.com/Amoiensis/Subway_flowrate_Analysis
 
-[CONTENT](https://github.com/Amoiensis/Assembly-language/blob/master/CONTENT.md)
+CONTENT
 ---------------------------------------
  
    1. Data-Processing
